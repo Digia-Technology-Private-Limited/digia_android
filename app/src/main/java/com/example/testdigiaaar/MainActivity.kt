@@ -44,7 +44,7 @@ class MainActivity : ComponentActivity() {
                             onClick = { startActivity(FlutterActivity.withCachedEngine(FLUTTER_ENGINE_ID).build(this@MainActivity)) },
                             modifier = Modifier.wrapContentSize() // Limit the button to its intrinsic size
                         ) {
-                            Text(text = "Open Flutter")
+                            Text(text = "Open Digia")
                         }
                     }
                 }
