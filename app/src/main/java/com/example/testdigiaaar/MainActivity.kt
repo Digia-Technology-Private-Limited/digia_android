@@ -52,16 +52,3 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
-//@Composable
-//fun Greeting(name: String, modifier: Modifier = Modifier, context: Activity) {
-//    Button(onClick = context.startActivity(FlutterActivi))
-//}
-
-//@Preview(showBackground = true)
-//@Composable
-//fun GreetingPreview() {
-//    TestDigiaAarTheme {
-//        Greeting("Android")
-//    }
-//}
