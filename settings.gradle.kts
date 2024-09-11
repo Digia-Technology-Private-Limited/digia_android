@@ -17,7 +17,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         //Added for Digia
-        maven ( url = "https://aar-artifacts.s3.ap-south-1.amazonaws.com")
+        maven(url = "https://aar-artifacts.s3.ap-south-1.amazonaws.com")
         maven(url = "https://storage.googleapis.com/download.flutter.io")
         maven(url = "https://jitpack.io")
     }
