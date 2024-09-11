@@ -1,7 +1,7 @@
 # Digia Android
 
 Digia is a Server driven mobile development platform.
-This is a demo for integration Digia in your android app.
+This is a demo for integrating Digia in your existing android app.
 
 ## How to Build
 
